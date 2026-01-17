@@ -1,0 +1,1 @@
+Source Code for close-loop control system of sea turtle generation 2. ROS2 is utilized to formulate a communication framework between nodes that enable the use of 3 primary control of the Dynamixcel servos by Robotis. Robotis provides the Dynamixcel SDK that is configured for ROS2. 
