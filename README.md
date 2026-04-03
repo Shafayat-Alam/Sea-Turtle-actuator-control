@@ -1,3 +1,4 @@
 Source Code for open-loop control system of underwater exploration robot inspired by sea turtles. In generation 2 of the control system design ROS2 is utilized to formulate a communication framework between nodes that enable the use of 3 primary control of the Dynamixcel servos by Robotis. Robotis provides the Dynamixcel SDK that is configured for ROS2. Moreover, feedback data from an specific individual Dynamixcel actuator depending on the control mode used is also formulated via a ROS2 communication framework. 
 
-*Note: Documentatoin regarding the specific ROS2 communication design protocol and IMU data-pipiline is underway in the near future.
+*Note: RETIRED Project.
+*Note: This represents early stage work with known limitations and bad design. It was a valuable learning experience that shaped the development of for future better control architecture design.
